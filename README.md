@@ -40,7 +40,7 @@ There is already a finished note on the server with the name of the "note". You 
 
 For create note use:
 
-```http POST localhost:9999/api/create name=note description="Hello, SCoRe lab!"```
+```http POST http://ab2ab.pw:9999/api/create name=note description="Hello, SCoRe lab!"```
 
 For delete note use:
 
@@ -48,6 +48,6 @@ For delete note use:
 
 For update note use:
 
-```http POST localhost:9999/api/create name=note description="Hello, SCoRe lab!"```
+```http POST http://ab2ab.pw:9999/api/create name=note description="Hello, SCoRe lab! It was be updated"```
 
 By Khisaliev
